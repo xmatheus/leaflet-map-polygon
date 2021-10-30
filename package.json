@@ -1,0 +1,22 @@
+{
+  "name": "leaflet",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "leaflet-draw": "^1.0.4",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-leaflet": "^3.2.2",
+    "react-leaflet-draw": "^0.19.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "vite": "^2.6.4"
+  }
+}
